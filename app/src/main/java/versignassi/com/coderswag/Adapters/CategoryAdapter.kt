@@ -26,6 +26,7 @@ class CategoryAdapter (context: Context, categories: List<Category>):  BaseAdapt
 
         categoryImage.setImageResource(resourceId)
 
+        
         categoryName.text = category.title
         return categoryView
 
