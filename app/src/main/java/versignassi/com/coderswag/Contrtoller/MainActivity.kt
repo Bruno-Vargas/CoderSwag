@@ -1,7 +1,8 @@
-package versignassi.com.coderswag
+package versignassi.com.coderswag.Contrtoller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import versignassi.com.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
